@@ -58,6 +58,3 @@ print("Winter is coming!")
 - [x] Watched Season 1
 - [x] Watched Season 8
 - [ ] Rewatch the whole series
-- [x] Watched Season 1
-- [x] Watched Season 8
-- [ ] Rewatch the whole series
